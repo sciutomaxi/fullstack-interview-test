@@ -34,5 +34,3 @@ $ npm start
 
 La aplicacion corre en  [http://localhost:3000](http://localhost:3000).
 
-Aclaracion: es mi primera app con node.js.(hace mas de 10 años que no toco front, pero me gustaria aprender) 
-

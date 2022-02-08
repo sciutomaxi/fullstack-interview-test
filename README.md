@@ -26,9 +26,10 @@ Agregamos swagger para poder ver la documentacion de la api [http://localhost:80
 $ mvn clean test
 ```
 
-4- Para levantar la aplicacion de front (ReactJS + PrimeReact)
+4- Para levantar la aplicacion de front (ReactJS + PrimeReact + node v16.13.2 + npm v8.1.2)
 ```sh
-cd ../front-react-app/
+cd ../front-react/
+$ npm install
 $ npm start
 ```
 
